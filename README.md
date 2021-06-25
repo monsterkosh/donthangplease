@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# HOLD ON HANGMAN !
+
+Hang Man game made with React
+
+LIVE: https://donthangplease.netlify.app/
+
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
